@@ -1,0 +1,39 @@
+# The project build on Windows 10 using Windows Subsystem for Linux
+
+# The models-textures file should be kept inside 'res' folder
+
+## Windows 10 details
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.19042 N/A Build 19042
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+...
+System Type:               x64-based PC
+
+## Windows Systems for Linux details
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=20.04
+DISTRIB_CODENAME=focal
+DISTRIB_DESCRIPTION="Ubuntu 20.04.2 LTS"
+NAME="Ubuntu"
+VERSION="20.04.2 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.2 LTS"
+VERSION_ID="20.04"
+...
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
+
+******************************
+To build the project:
+> make
+
+To run the project:
+> make run
+
+To clean the project (one of):
+> make clean
+
+> make clobber
