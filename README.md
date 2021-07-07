@@ -16,7 +16,7 @@ texture.
 The skeleton file was given and the required tasks are added to complete the project. 
 
 ## Build with
-* [C/C++](https://en.wikipedia.org/wiki/C_(programming_language)) 
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))/[C++](https://www.cplusplus.com/) 
 * [GLSL (OpenGL Shading Language)](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
 
 # Build Instructions:
