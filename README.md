@@ -5,6 +5,9 @@ Graphics and Animation Project
 Operating system: [Windows System for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about)  
 [Projection Description](https://github.com/vummang/2021S1_C_I_T_S_3003-Project/blob/main/Graphics%20%26%20Animation%202021_Project%20Description.pdf)
 
+## Author
+V.S. Mang (22355071)
+
 ## Task
 Implementation of a simple scene editor that allows a collection of objects
 to be arranged in a scene and various properties of them to be changed, such as colour, shininess and
